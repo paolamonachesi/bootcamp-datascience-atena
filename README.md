@@ -1,0 +1,1 @@
+Este repositório corresponde à um projeto final do Bootcamp Data Science, realizado pela organização WoMakersCode, onde foram realizadas instruções sobre diversas atividades dentro da área. No arquivo “Kaggle #1 - Ecommerce no Brasil” mostra a explicação do desafio, inspirações e origem dos dados. 
